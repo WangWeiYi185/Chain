@@ -12,6 +12,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  guang_flutter_framework:
+    path: ../GuangFlutter
+    # git:
+    #   url: https://gitlab.qima-inc.com/guang-flutter/GuangFlutter 
+    #   ref: master
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
